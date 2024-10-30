@@ -1,0 +1,145 @@
+body{
+  /* width: 100%;
+  overflow-x: hidden; */
+  /* font-family: "Raleway", sans-serif; */
+  font-family: "Poppins", sans-serif;
+}
+
+  img.notification-image {
+    width: 20px;
+    background-color: white;
+    margin-left: 105px;
+    height: 28px;
+}
+.notification-conent{
+  background-color: red;
+  color: white;
+  height: 18px;
+  font-size: small;
+  padding: 0px 4px;
+  border-radius: 50%;
+  position: relative;
+  left: -9px;
+
+}
+.john,.email{
+  margin-bottom: 0px;
+  margin-top: -3px;
+}
+  .main{
+    background-color: rgba(225, 211, 211, 0.858) !important;
+  }
+  .university-logo {
+    margin-left: 14%;
+    height: 40px;
+}
+.module {
+  background-image: url(/assests/red-colour.png);
+}
+li.log.list-group-item {
+  margin-top: 127px;
+}
+.list-group-item:hover{
+  background: transparent url(/assests/red-colour.png) 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.list-group-item {
+  font-weight: bold;
+}
+.col-md-2{
+    border: solid 1px whitesmoke;
+    border-radius: 4px;
+    box-shadow: whitesmoke;
+    background: white;
+}
+
+.me-2 {
+  margin-right: .5rem !important;
+  width: 483px;
+}
+button.btn.btn-danger {
+  margin-left: -13px;
+  margin-top: 0px;
+  height: 34px;
+}
+.rounded-circle {
+  border-radius: 50% !important;
+  margin-left: 15px;
+}
+a.nav-item.nav-link {
+  border: 0px;
+  padding: 7px;
+}
+.row.bg-white.rounded-2 {
+  border: 1px solid #baabab;
+}
+img.blue-line {
+  /* margin-right: 1px; */
+  margin-left: -9px;
+}
+.lists-1{
+  background-color: #e3eff9;
+}
+.lists{
+  list-style-type: none;
+}
+.list{
+  list-style-image: url(/assests/green-circle.png);
+}
+.list1{
+  list-style-image: url(/assests/orange-circle.png);
+}
+.list2{
+  list-style-image: url(/assests/blue-circle.png);
+}
+.drop-down {
+  position: relative;
+  left: 50%;
+}
+.date,.class,.content,.present,.absent,.present-1,.present-2,.present-3{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 4px;
+    padding-left: 5px;
+}
+p.class.fw-bold {
+  font-size: 14px;
+}
+p.content.fw-bold {
+  font-size: 15px;
+}
+
+p.today {
+  margin-bottom: 0px;
+  margin-top: 9px;
+}
+img.border-line {
+  height: 34px;
+  margin-top: 7px;
+}
+p.present {
+  margin-left: 4%;
+}
+p.absent {
+  position: relative;
+  left: 17%;
+}
+p.present-1 {
+  margin-left: 2%;
+}
+p.present-2 {
+  margin-left: 1%;
+}
+p.present-3 {
+  margin-left: 5%;
+}
+.class-2.d-flex.text-align-center.mt-2.gap-5.border {
+  margin-left: -4px;
+  width: 586px;
+  background-color: #e3eff9;
+}
+.class-1:hover{
+  background-color: #e3eff9;
+}
+
